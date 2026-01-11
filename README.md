@@ -25,14 +25,17 @@ Given a Metaglove CSV file, the script:
 The repository can be organized like:
 
 MetaGlove_Project/
-
-├─ data/ # input CSV files
-
-├─ output/ # generated plots + summary CSV files
-
-├─ metaglove_analysis.py # main script
-
-└─ README.md
+│
+├── analysis/
+│ ├── analyse_metaglove_ergo.py
+│
+├── data/
+│ ├── example_NHPT.csv
+│ ├── example_BBT.csv
+│
+├── output/
+│
+├── README.md
 
 ## Requirements
 
@@ -50,4 +53,4 @@ pip install numpy pandas matplotlib
 ## Running the analysis
 
 The Metaglove CSV files can be placed in the data/ folder
-The script: ```python scripts/metaglove_analysis.py``` can be run
+The script: ```python analysis/analyse_metaglove_ergo.py``` can be run
