@@ -26,8 +26,11 @@ The repository can be organized like:
 
 MetaGlove_Project/
 ├─ data/ # input CSV files
+
 ├─ output/ # generated plots + summary CSV files
+
 ├─ metaglove_analysis.py # main script
+
 └─ README.md
 
 ## Requirements
