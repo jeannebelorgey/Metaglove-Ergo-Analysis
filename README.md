@@ -25,6 +25,7 @@ Given a Metaglove CSV file, the script:
 The repository can be organized like:
 
 MetaGlove_Project/
+
 ├─ data/ # input CSV files
 
 ├─ output/ # generated plots + summary CSV files
