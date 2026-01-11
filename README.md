@@ -24,6 +24,7 @@ Given a Metaglove CSV file, the script:
 
 The repository can be organized like:
 
+```
 MetaGlove_Project/
 │
 ├── analysis/
@@ -36,6 +37,7 @@ MetaGlove_Project/
 ├── output/
 │
 ├── README.md
+```
 
 ## Requirements
 
