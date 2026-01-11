@@ -42,8 +42,8 @@ They can be installed using:
 
 ```bash
 pip install numpy pandas matplotlib
-
+```
 ## Running the analysis
 
 The Metaglove CSV files can be placed in the data/ folder
-The script: python scripts/metaglove_analysis.py can be run
+The script: ```python scripts/metaglove_analysis.py``` can be run
