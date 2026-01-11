@@ -55,8 +55,12 @@ pip install numpy pandas matplotlib
 ## Running the analysis
 
 The Metaglove CSV files can be placed in the data/ folder
-Edit the paths in the __main__ section: 
+Edit the paths in the ```__main__``` section: 
+```
 csv_file = Path(r"C:\...\MetaGlove_Project\data\BBT or NHPT file.csv")
 out_dir  = Path(r"C:\...\MetaGlove_Project\output")
+```
 Then run: 
+```
 python analyse_metaglove_ergo.py
+```
