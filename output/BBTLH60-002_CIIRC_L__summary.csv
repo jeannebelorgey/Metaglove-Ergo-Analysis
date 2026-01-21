@@ -1,0 +1,2 @@
+file,duration_s,n_grasps,grasp_duration_mean_s,grasp_duration_median_s,thumb_rom_p95_p5_deg,index_rom_p95_p5_deg,close_thr,open_thr
+C:\Users\jeann\Documents\MetaGlove_Project\data\BBTLH60-002_CIIRC_L.csv,60.466660000000005,29,0.6385051724137933,0.4333300000000051,34.606409,48.50841199999999,3.5237857800000008,4.650314820000001
